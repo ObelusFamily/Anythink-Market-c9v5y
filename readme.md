@@ -10,4 +10,6 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
-- run **docker-compose up** from the project root directory.
+- Run **docker-compose up** from the project root directory.
+- Test this by pointing your browser to http://localhost:3000/api/ping
+- Create a new user on http://localhost:3001/register
